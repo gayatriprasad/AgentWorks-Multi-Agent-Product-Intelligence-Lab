@@ -10,7 +10,7 @@ This repo is built for workshops and PM/Engineer demos: every version is isolate
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 * **Real‑world scenario:** supply‑chain/product‑intel toy dataset (products + reviews)
 * **Stepwise design:** V1 → V6 with crisp before/after demos
@@ -24,7 +24,7 @@ This repo is built for workshops and PM/Engineer demos: every version is isolate
 
 ---
 
-## 🗺️ Version Map
+##  Version Map
 
 | Version | Theme                       | What it adds                                                    | Demo hook                             |
 | ------- | --------------------------- | --------------------------------------------------------------- | ------------------------------------- |
@@ -39,7 +39,7 @@ This repo is built for workshops and PM/Engineer demos: every version is isolate
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Streamlit UI
@@ -60,7 +60,7 @@ Data layer (demo CSVs: products.csv, reviews.csv)
 
 ---
 
-## 📁 Repository Layout
+##  Repository Layout
 
 ```
 agentworks/
@@ -97,7 +97,7 @@ agentworks/
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ```bash
 # 1) Create env
@@ -119,7 +119,7 @@ streamlit run app/ui/ui_v5.py      # V5 – planner routing
 
 ---
 
-## 🧪 Demo Scripts & Prompts
+##  Demo Scripts & Prompts
 
 **Guardrails (V3)**
 
@@ -140,7 +140,7 @@ streamlit run app/ui/ui_v5.py      # V5 – planner routing
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Python** (3.10+), **Streamlit**, **FastAPI** (optionally, for service mode)
 * **Pydantic** for strict IO models
@@ -150,7 +150,7 @@ streamlit run app/ui/ui_v5.py      # V5 – planner routing
 
 ---
 
-## 🔒 Guardrails (V3)
+##  Guardrails (V3)
 
 * **Rule types:** prompt‑injection, jailbreak, out‑of‑scope, PII patterns
 * **Actions:** `PASS` | `REFUSE` | `SANITIZE` with redaction markers
@@ -158,7 +158,7 @@ streamlit run app/ui/ui_v5.py      # V5 – planner routing
 
 ---
 
-## 👁️ Observability (V4)
+##  Observability (V4)
 
 * Lightweight tracer: request → agents → tools → LLM → response
 * Redacts secrets; captures timings, token counts (if available)
@@ -166,14 +166,14 @@ streamlit run app/ui/ui_v5.py      # V5 – planner routing
 
 ---
 
-## 🧭 Routing & Planning (V5)
+##  Routing & Planning (V5)
 
 * Simple Planner agent creates a step list → Orchestrator executes
 * **Show Plan** panel in UI shows the routed steps & tool choices
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 streamlit>=1.35
@@ -188,7 +188,7 @@ httpx>=0.27
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 `.env` keys:
 
@@ -201,7 +201,7 @@ TRACE_LEVEL=INFO
 
 ---
 
-## 🧭 Roadmap
+##  Roadmap
 
 * [ ] Add Jest‑style snapshot tests for UI JSON outputs
 * [ ] Plug in OpenAI Moderation or Guardrails SDK as optional module
@@ -211,18 +211,18 @@ TRACE_LEVEL=INFO
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 PRs welcome! Keep each addition version‑scoped (no cross‑version regressions). Add tests where possible and update demo prompts.
 
 ---
 
-## 📜 License
+##  License
 
 MIT
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 This repo is part of a **Project‑Based Multi‑Agent System** learning path focused on product recommendation, price comparison, and FAQ automation.
