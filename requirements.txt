@@ -1,0 +1,8 @@
+pydantic>=2.7
+pandas>=2.0
+scikit-learn>=1.4
+openai>=1.40
+typer>=0.12
+python-dotenv>=1.0
+streamlit>=1.36
+

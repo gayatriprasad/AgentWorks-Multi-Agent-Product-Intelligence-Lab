@@ -1,0 +1,37 @@
+review_id,product_id,rating,text
+R001,P001,4.3,Great value. Mic is clear on calls and bass is punchy for the size.
+R002,P001,3.8,Fits well. Battery around 8-9h per charge; case adds a lot.
+R003,P001,4.1,IPX5 survived runs. Wish the touch controls were less sensitive.
+R004,P002,4.6,ANC is legit at this price. Transparency mode sounds natural.
+R005,P002,4.0,Excellent mic quality for meetings. Gaming mode reduces lag.
+R006,P002,3.9,"Sound is balanced, but case is a bit bulky."
+R007,P003,4.5,"Solid build, keyboard is comfy. Handles VS Code and light ML fine."
+R008,P003,4.2,Battery 7-8 hours in office use. Fan stays quiet.
+R009,P003,3.7,Good performance but speakers are average.
+R010,P004,4.7,OLED display is stunning. Super light for travel.
+R011,P004,4.4,Thunderbolt is handy. Gets warm under heavy compile loads.
+R012,P004,4.1,Battery ~6-7h on dev workloads; expected more for price.
+R013,P005,4.3,Clean Android with fast updates. Camera is consistent in low light.
+R014,P005,3.9,Good 5G reception. Battery lasts a day with social + maps.
+R015,P005,4.0,Performance is smooth; wish charging was faster.
+R016,P006,4.1,AMOLED looks great outdoors. GPS is accurate for runs.
+R017,P006,3.6,Bluetooth calling works but speaker is small.
+R018,P006,4.0,Sleep tracking insights are helpful and fairly accurate.
+R019,P007,4.2,Compact and brews quickly. Reusable filter saves on paper.
+R020,P007,3.8,Makes decent coffee; plastic feels basic but sturdy.
+R021,P007,3.9,Auto-shutoff is convenient. Carafe could pour smoother.
+R022,P008,4.4,Strong suction on rugs. HEPA filter catches fine dust.
+R023,P008,3.7,45 minutes runtime on low; high drains fast.
+R024,P008,4.0,Easy to maneuver; bin is small but quick to empty.
+R025,P009,4.3,Stable Wi‑Fi 6 speeds across a 3BHK. Setup was simple.
+R026,P009,3.8,160MHz helps my laptop. App UI could be cleaner.
+R027,P009,4.1,Handles 20+ devices without hiccups.
+R028,P010,4.5,E‑ink is gentle on eyes. Warm light is great at night.
+R029,P010,4.0,Battery lasts weeks. Library sync is a bit slow.
+R030,P010,4.2,Lightweight; perfect for travel reading.
+R031,P011,4.2,Clear dialogue and punchy bass. ARC works flawlessly.
+R032,P011,3.9,Subwoofer adds depth. Remote feels cheap.
+R033,P011,4.1,Great for movies in a mid-sized living room.
+R034,P012,4.0,Loud for its size. Survived a pool splash (IP67).
+R035,P012,3.7,Battery is around 10-11h at 60% volume.
+R036,P012,4.1,Pairs quickly and stereo mode is fun.

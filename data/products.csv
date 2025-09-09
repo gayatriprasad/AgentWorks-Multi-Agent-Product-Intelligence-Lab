@@ -1,0 +1,13 @@
+product_id,title,category,price,description
+P001,NeoBuds Lite,Earbuds,2499,"Bluetooth 5.3, ENC mic, 13mm drivers, IPX5, USB-C, ~40h battery."
+P002,SoundPulse Pro,Earbuds,4999,"Hybrid ANC, 6 mics, transparency mode, low-latency gaming."
+P003,WorkMate 14,Laptop,58990,"14"" IPS, Ryzen 5 5625U, 16GB RAM, 512GB SSD, backlit keyboard."
+P004,FocusBook Air 13,Laptop,79990,"13.3"" OLED, Intel i7-1355U, 16GB/1TB, Thunderbolt 4, 1.1kg."
+P005,Pixelish A2,Smartphone,21999,"6.1"" OLED, clean Android, 48MP OIS, 5G, all-day battery."
+P006,ChronoFit S,Smartwatch,6999,"AMOLED, GPS, SpO2, Bluetooth calling, 5ATM, sleep tracking."
+P007,BrewMaster Mini,Coffee Maker,3499,"Compact drip, 600ml, auto-shutoff, reusable filter, 700W."
+P008,QuietClean X10,Vacuum,12999,"Cordless stick, 120AW suction, HEPA filter, ~45min runtime."
+P009,SpeedWave AX3000,Wi‑Fi Router,5999,"Wi‑Fi 6, MU-MIMO, OFDMA, 160MHz channels, WPA3."
+P010,PaperLeaf 6,E‑Reader,9999,"6"" e‑ink, warm light, 8GB, weeks of battery, glare-free."
+P011,CineBar 2.1,Soundbar,14999,"2.1ch with subwoofer, HDMI ARC, Bluetooth 5.0, wall-mountable."
+P012,PocketBoom Go,Bluetooth Speaker,1799,"IP67, 12h battery, stereo pair, Type‑C charging."
